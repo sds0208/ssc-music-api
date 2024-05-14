@@ -8,7 +8,7 @@ const app = express();
 app.use(express.json());
 
 const corsOptions = {
-    origin: ['https://sscmusic.netlify.app/', 'https://sscmusic.net/'],
+    origin: ['https://sscmusic.netlify.app', 'https://sscmusic.net'],
     optionsSuccessStatus: 200,
   };
  
