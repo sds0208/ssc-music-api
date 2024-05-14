@@ -1,0 +1,15 @@
+{
+  "name": "ssc-music-api",
+  "version": "1.0.0",
+  "description": "API to deliver music data to react-ssc-music site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sarah Santa Cruz",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
