@@ -6,6 +6,8 @@
       "description":"Commissioned by Lubbock Cooper HS\nFront Ensemble by Sarah Santa Cruz\nBattery by Rick Rodriguez",
       "score":"score.png",
       "audio":"lc-24-p1-perc.mp3",
+      "linkText":"Contact for Arranging Services",
+      "link":"/contact",
       "featured":true
     },
     {
@@ -14,6 +16,8 @@
       "description":"Commissioned by Shadow Creek HS\nFront Ensemble by Sarah Santa Cruz\nBattery by Rick Rodriguez",
       "score":"score.png",
       "audio":"sc-24-spirited-away-perc.mp3",
+      "linkText":"Contact for Arranging Services",
+      "link":"/contact",
       "featured":true
     },
     {
@@ -22,6 +26,8 @@
       "description":"Commissioned by Shadow Creek HS\nFront Ensemble by Sarah Santa Cruz\nBattery by Rick Rodriguez",
       "score":"score.png",
       "audio":"sc-22-p3-perc.mp3",
+      "linkText":"Contact for Arranging Services",
+      "link":"/contact",
       "featured":true
     },
     {
@@ -29,21 +35,27 @@
       "title":"Sample 4",
       "description":"Commissioned by Cy Creek HS\nFront Ensemble by Sarah Santa Cruz\nBattery by Rick Rodriguez",
       "score":"score.png",
-      "audio":"cc-22-perc.mp3"
+      "audio":"cc-22-perc.mp3",
+      "linkText":"Contact for Arranging Services",
+      "link":"/contact"
     },
     {
       "id":5,
       "title":"Sample 5",
       "description":"Commissioned by Lubbock Cooper HS\nFront Ensemble by Sarah Santa Cruz\nBattery by Rick Rodriguez",
       "score":"score.png",
-      "audio":"lc-23-p1-perc.mp3"
+      "audio":"lc-23-p1-perc.mp3",
+      "linkText":"Contact for Arranging Services",
+      "link":"/contact"
     },
     {
       "id":6,
       "title":"Sample 6",
       "description":"Commissioned by Lubbock Cooper HS\nFront Ensemble by Sarah Santa Cruz\nBattery by Rick Rodriguez",
       "score":"score.png",
-      "audio":"lc-23-p2-perc.mp3"
+      "audio":"lc-23-p2-perc.mp3",
+      "linkText":"Contact for Arranging Services",
+      "link":"/contact"
     }
   ],
   "percussionEnsembles": [
