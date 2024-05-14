@@ -8,7 +8,7 @@ const app = express();
 app.use(express.json());
 
 const corsOptions = {
-    origin: ['https://sscmusic.netlify.app/', 'https://sscmusic.netlify.app/'],
+    origin: ['https://sscmusic.netlify.app/', 'https://sscmusic.net/'],
     optionsSuccessStatus: 200,
   };
  
@@ -21,6 +21,10 @@ app.listen(PORT, () => {
 });
 
 app.get('/', (request, response) => {
+
+});
+
+app.get('/music', (request, response) => {
     let json;
     try {
         json = fs.readFileSync('./music-samples.json', { encoding: 'utf8', flag: 'r' });
