@@ -21,7 +21,7 @@ app.listen(PORT, () => {
 });
 
 app.get('/', (request, response) => {
-
+    response.send('You\'ve reached the ssc-music-api.');
 });
 
 app.get('/music', (request, response) => {
